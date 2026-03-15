@@ -10,4 +10,4 @@ Repositorio con ejercicios de programación en C++.
 
 ## Autor
 
-Shirley
+Shirley Amaguaña
